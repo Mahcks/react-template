@@ -9,7 +9,7 @@
 - Prettier
 
 ## Getting Started
-You can click `Use Template` to create a new repo using this project.
+You can click `Use this template` to create a new repo or you can clone it.
 
 ```bash
 git clone https://github.com/Mahcks/react-template.git react-template
