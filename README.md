@@ -6,7 +6,7 @@
 - React (TypeScript)
 - Tailwind CSS
 - React Router DOM
-
+- Prettier
 
 ## Getting Started
 
