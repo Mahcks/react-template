@@ -1,2 +1,18 @@
 # react-template
-Vite + React + TypeScript + Tailwind CSS
+
+## What's included?
+
+- Vite
+- React (TypeScript)
+- Tailwind CSS
+- React Router DOM
+
+
+## Getting Started
+
+```bash
+git clone https://github.com/Mahcks/react-template.git react-template
+cd react-template
+npm install
+npm run dev
+```
